@@ -23,7 +23,7 @@ console.log(nomeAluno);
 console.log();
 
 // com var eu consigo alterar o valor de uma variável
-// quando esse código rodas, não irá gerar erro
+// quando esse código roda, não irá gerar erro
 
 let nomeAlunoNovo = "João";
 //let nomeAlunoNovo = "Mateus";
