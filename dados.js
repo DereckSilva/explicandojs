@@ -64,3 +64,11 @@ idade = 10;
 // variavel que possuem o valor null, sempre são 0, podendo assim fazer contas matemáticas
 console.log(idade + 1);
 console.log();
+
+// const: conceito de const é para que o valor de uma variavel não seja alterada
+
+const endereco = "https://www.google.com/";
+// endereco = "https://www.youtube.com/"; com essa tentativa de alterar o valor da variavel o código irá apresentar erro
+console.log(endereco);
+
+// const e a ideia de imutabilidade: ou seja, eu defini esse valor com const, será esse até o fim do código
