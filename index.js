@@ -29,5 +29,6 @@ let nomeAlunoNovo = "João";
 //let nomeAlunoNovo = "Mateus";
 console.log(nomeAlunoNovo);
 
-// com let eu não consigo alterar o valor de uma variavel
+// com let eu não consigo alterar o valor de uma variavel usando a palavra chave let antes da variavel
+// mas apenas chamando a variavel eu consigo alterar
 // esse código com let irá gerar um erro
