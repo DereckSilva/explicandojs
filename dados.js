@@ -1,7 +1,12 @@
 // Tipos de dados Js
+
 // string
 // number
 // boolean
+// array
+// underfined
+// null
+//const
 
 // tipo string: todo texto envolvido por aspas simples ou aspas duplas é uma string em js
 
