@@ -53,3 +53,28 @@ valor = 2;
 valor += numero3; //12 mesma coisa que -> valor = valor - numero3;
 // -= *= /=
 console.log(valor);
+
+
+// incremento e decremento
+
+let primeiro_numero = 10;
+console.log(primeiro_numero++); // incrementando + 1
+console.log(primeiro_numero--); // decrementando - 1
+
+// pré incremento e pós-incremento
+
+let segundo_numero = 5;
+console.log(++segundo_numero); // incrementando um número antes de mostrar na tela, logo = 6
+console.log(segundo_numero++); // incrementando depois de mostrar na tela
+// logo a variavel será atualizado caso seja chamada 
+
+// operadores relacionais
+
+21 == "21"; // true: conversão de tipo
+100 != 100 // false
+10 < 20 // true
+20 > 10 // true
+10 <= 10 // true
+20 >= 20 // true
+"19" === 19 // false: verifica o tipo e valor
+50 !== 50 // false
